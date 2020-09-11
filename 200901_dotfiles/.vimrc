@@ -182,8 +182,6 @@ Plugin 'scrooloose/nerdtree'
 Plugin 'easymotion/vim-easymotion'
 Plugin 'junegunn/vim-easy-align'
 Plugin 'scrooloose/nerdcommenter'
-Plugin 'euclio/vim-markdown-composer' " https://github.com/euclio/vim-markdown-composer/blob/master/README.md
-
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
