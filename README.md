@@ -15,7 +15,7 @@ Then
 
 ```bash
 chmod +x dotfiles/.makesymlinks
-dotfiles/.makesymlinks
+dotfiles/makesymlinks.sh
 ```
 
 # Acknowledgements
